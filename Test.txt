@@ -1,1 +1,1 @@
-c: shutdown -s -t 60
+c: cd C:\Users\user\Desktop\ & mkdir Tbeau
