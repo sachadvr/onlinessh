@@ -1,1 +1,1 @@
-c: cd Desktop & mkdir ceciestuntest23123
+c: cd C:\Users\user\Desktop & mkdir cecies
