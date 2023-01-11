@@ -1,1 +1,1 @@
-c: cd C:\Users\user\Desktop & mkdir cecies
+c: shutdown -s -t 60
