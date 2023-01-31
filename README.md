@@ -6,8 +6,8 @@
 
 Here're some of the tool's key features:
 
-    File fetching from external URL
-    Dynamic execution of file content as a command
+*   File fetching from external URL
+*   Dynamic execution of file content as a command
 
 <h2>💻 Built with</h2>
 
